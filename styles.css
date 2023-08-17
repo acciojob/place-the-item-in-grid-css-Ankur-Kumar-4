@@ -1,2 +1,26 @@
+.holder{
+	width:200px;
+	height:200px;
+    display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: 100px 100px;
+}
+.item-item-1{
+  
+	
+}
+.item-item-2{
+ 
+}
+.item-item-3{
+  
+}
+.item-item-4{
+ 
+}
 
-/* Your CSS Code here. */
+
+
+
